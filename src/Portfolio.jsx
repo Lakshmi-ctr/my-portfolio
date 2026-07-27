@@ -31,17 +31,17 @@ const PROJECTS = [
   {
     title: "PetHub",
     desc: "A Java full-stack pet adoption platform. Core Java and OOP power the backend logic, with MySQL and JDBC handling CRUD operations for registrations, listings, and adoption requests.",
-    stack: ["Java", "JDBC", "MySQL", "OOP"],
+    stack: ["Java", "JDBC", "MySQL", "OOP","Servlets","JSP","Apache Tomcat","HTML/CSS"],
   },
   {
-    title: "Academic Notice & Event System",
+    title: "Academic Notice & Event Registration with Ticket Generation",
     desc: "A web app managing academic notices and event registrations, with an admin dashboard and automated QR-code ticket generation for secure, trackable event check-ins.",
     stack: ["HTML/CSS/JS", "C#", "MySQL", "QR Codes"],
   },
   {
     title: "Doctor Appointment Booking",
     desc: "Streamlines appointment booking and patient management with an admin panel for doctors, plus secure authentication and role-based access control.",
-    stack: ["PHP", "MySQL", "Auth & RBAC"],
+    stack: ["HTML/CSS/JS","PHP", "MySQL"],
   },
 ];
 
@@ -50,7 +50,7 @@ const MARQUEE_ITEMS = [
   "Bootstrap", "Git & GitHub", "SQL", "Postman", "Data Structures",
 ];
 
-const ROLE_WORDS = ["Full-Stack Developer", "Java & React Engineer", "Problem Solver", "Information Science Student"];
+const ROLE_WORDS = ["Full-Stack Developer", "Java & React Engineer", "Frontend Developer","Problem Solver", "Information Science Student"];
 
 const STATS = [
   { label: "CGPA", value: 8.82, decimals: 2, suffix: "" },
