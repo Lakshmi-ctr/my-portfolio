@@ -548,7 +548,7 @@ function AchievementsPage() {
             <h4 style={{ fontSize: "1.05rem", marginBottom: 8 }}>Java Full Stack Development</h4>
             <p style={{ color: COLORS.muted, fontSize: ".88rem", lineHeight: 1.6 }}>
               Completed a 4-month internship in Java Full Stack Development at Pentagon Space, gaining hands-on
-              experience across the full stack developmentgit add ..
+              experience across the full stack development
             </p>
           </div>
         </FadeIn>
